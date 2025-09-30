@@ -8,3 +8,20 @@ C:\Users\Josh\source\repos\Image Processing\Image Processing\obj\Debug\Image Pro
 C:\Users\Josh\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
 C:\Users\Josh\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.exe
 C:\Users\Josh\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.AssemblyReference.cache
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\AForge.dll
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\AForge.Video.dll
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\AForge.xml
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\AForge.Video.xml
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Josh\Source\Repos\Image-Processing\Image Processing\Image Processing\obj\Debug\Image Pr.B3F62239.Up2Date
